@@ -9,7 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "quagga": "^0.12.1",
+    "vue": "^2.6.11",
+    "vue-barcode-reader": "^0.0.3",
+    "vue-qrcode-reader": "^2.3.16"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
